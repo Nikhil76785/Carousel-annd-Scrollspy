@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>Cards</title>
+        
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+
+        <style>
+            h1{color:red}
+            p{color: blue;}
+            body{background-color: peachpuff;}
+        </style>
+    </head>
+    <body>
+        <h1>Me!</h1>
+        <div class="container">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="Cool Piano Vibes.jpg">
+                <div class="card-body">
+                    <h5>Nikhil</h5>
+                    <p>Likes:<br>Table Tennis<br>Beyblade<br>Piano<br>Guitar</p>
+                </div>
+            </div>
+        </div>
+        <p>Hello! I am Nikhil! I love playing the Guitar and Piano!! I also love Table Tennis and Cycling! I too love Beyblade</p>
+    </body>
+</html>
